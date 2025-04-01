@@ -47,9 +47,3 @@ The following functions are implemented in the code:
 1. Dalel Bouslimi, Reda Bellafqira, and Gouenou Coatrieux. Data hiding in homomorphically encrypted medical images for verifying their reliability in both encrypted and spatial domains. In 2016 38th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), pages 2496–2499. IEEE, 2016.
 2. Brian Chen and Gregory W. Wornell. Quantization index modulation: A class of provably good methods for digital watermarking and information embedding. IEEE Transactions on Information Theory, 47(4):1423–1443, 2001.
 3. Pascal Paillier. Public-key cryptosystems based on composite degree residuosity classes. In International Conference on the Theory and Applications of Cryptographic Techniques, pages 223–238. Springer, 1999..
-
-## **Authors**
-- **CENZANO ALIAGA Anthony**  
-  Cybersecurity Engineering Student, IMT Atlantique
-- **TRONCOSO PAREJA Pablo**  
-  Cybersecurity Engineering Student, IMT Atlantique
